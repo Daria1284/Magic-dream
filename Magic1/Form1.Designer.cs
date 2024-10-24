@@ -37,7 +37,7 @@ namespace Magic1
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1007, 210);
             this.Name = "Form1";
-            this.Text = "Magic";
+            this.Text = "Magic+";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
 
